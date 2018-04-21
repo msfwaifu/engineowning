@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Random">
+      <UniqueIdentifier>{3f4c56ec-4540-4e86-aad0-47401ad5807d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Random">
+      <UniqueIdentifier>{17aa6af8-013e-4e83-b480-21a69c89e950}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EO_Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EO_Client.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EO_Structs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EO_Vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EO_Drawing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EO_Utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EO_Hook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EO_ESP_AIMBOT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EO_NoSpread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EO_Offsets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EO_Misc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Awall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EO_Killsounds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EO_MENU_MW2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS_RandomGen.h">
+      <Filter>Header Files\Random</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EO_Hook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EO_Client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EO_Offsets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EO_Drawing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EO_Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EO_Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EO_ESP_AIMBOT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EO_Autowall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EO_NoSpread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EO_Misc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Awall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EO_Killsounds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EO_MENU_MW2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UTILS_RandomGen.cpp">
+      <Filter>Source Files\Random</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

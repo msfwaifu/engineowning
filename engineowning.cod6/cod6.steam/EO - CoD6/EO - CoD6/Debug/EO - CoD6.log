@@ -1,0 +1,14 @@
+﻿Der Buildvorgang wurde am 08.05.2014 20:31:38 gestartet.
+     1>Projekt "H:\EngineOwning\engineowning.eobase\engineowning.cod6\cod6.steam\EO - CoD6\EO - CoD6\EO - CoD6.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D EOCOD6_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\EO - CoD6.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt EO_Drawing.cpp EO_Engine.cpp
+         EO_Engine.cpp
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\eo_engine.cpp(5): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "stdafx.h"" einzufügen?
+         EO_Drawing.cpp
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\eo_drawing.cpp(4): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "stdafx.h"" einzufügen?
+         Code wird generiert...
+     1>Die Erstellung des Projekts "H:\EngineOwning\engineowning.eobase\engineowning.cod6\cod6.steam\EO - CoD6\EO - CoD6\EO - CoD6.vcxproj" ist abgeschlossen, Build Ziel(e) -- FEHLER.
+
+Fehler beim Buildvorgang.
+
+Verstrichene Zeit 00:00:00.18

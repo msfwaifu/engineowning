@@ -1,0 +1,23 @@
+﻿Build started 6-5-2014 3:15:17.
+     1>Project "C:\EngineOwning\engineowning.eobase\engineowning.cod5\EO - CoD5\EO - CoD5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W0 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D EOCOD5_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt EO_NoSpread.cpp
+         EO_NoSpread.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\EngineOwning\engineowning.eobase\engineowning.cod5\Release\EO - CoD5.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\EngineOwning\engineowning.eobase\engineowning.cod5\Release\EO - CoD5.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\EngineOwning\engineowning.eobase\engineowning.cod5\Release\EO - CoD5.lib" /MACHINE:X86 /SAFESEH /DLL Release\EO_Aimbot.obj
+         Release\EO_Client.obj
+         Release\EO_Drawing.obj
+         Release\EO_Hook.obj
+         Release\EO_Main.obj
+         Release\EO_NoSpread.obj
+         Release\EO_Offsets.obj
+         Release\EO_Utils.obj
+         Release\EO_Visuals.obj
+         Generating code
+         Finished generating code
+         EO - CoD5.vcxproj -> C:\EngineOwning\engineowning.eobase\engineowning.cod5\Release\EO - CoD5.dll
+     1>Done Building Project "C:\EngineOwning\engineowning.eobase\engineowning.cod5\EO - CoD5\EO - CoD5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.52

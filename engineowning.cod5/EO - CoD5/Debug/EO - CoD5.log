@@ -1,0 +1,30 @@
+﻿Build started 5-5-2014 21:45:28.
+     1>Project "C:\EngineOwning\engineowning.eobase\engineowning.cod5\EO - CoD5\EO - CoD5.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W0 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D EOCOD5_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt EO_Aimbot.cpp EO_Client.cpp EO_Drawing.cpp EO_Hook.cpp EO_Main.cpp EO_NoSpread.cpp EO_Offsets.cpp EO_Utils.cpp EO_Visuals.cpp
+         EO_Visuals.cpp
+         EO_Utils.cpp
+         EO_Offsets.cpp
+         EO_NoSpread.cpp
+         EO_Main.cpp
+         EO_Hook.cpp
+         EO_Drawing.cpp
+         EO_Client.cpp
+         EO_Aimbot.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\EngineOwning\engineowning.eobase\engineowning.cod5\Debug\EO - CoD5.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\EngineOwning\engineowning.eobase\engineowning.cod5\Debug\EO - CoD5.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\EngineOwning\engineowning.eobase\engineowning.cod5\Debug\EO - CoD5.lib" /MACHINE:X86 /DLL Debug\EO_Aimbot.obj
+         Debug\EO_Client.obj
+         Debug\EO_Drawing.obj
+         Debug\EO_Hook.obj
+         Debug\EO_Main.obj
+         Debug\EO_NoSpread.obj
+         Debug\EO_Offsets.obj
+         Debug\EO_Utils.obj
+         Debug\EO_Visuals.obj
+         EO - CoD5.vcxproj -> C:\EngineOwning\engineowning.eobase\engineowning.cod5\Debug\EO - CoD5.dll
+     1>Done Building Project "C:\EngineOwning\engineowning.eobase\engineowning.cod5\EO - CoD5\EO - CoD5.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.50

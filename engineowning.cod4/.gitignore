@@ -1,0 +1,8 @@
+*.sdf
+
+*.ipch
+
+*.obj
+
+*.opensdf
+*.tlog

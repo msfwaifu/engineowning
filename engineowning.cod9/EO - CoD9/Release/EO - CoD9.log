@@ -1,0 +1,19 @@
+﻿Der Buildvorgang wurde am 20.05.2014 16:51:31 gestartet.
+     1>Projekt "H:\EngineOwning\engineowning.eobase\engineowning.cod9\EO - CoD9\EO - CoD9.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\EngineOwning\engineowning.eobase\engineowning.cod9\Release\EO - CoD9.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\EO - CoD9.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\EngineOwning\engineowning.eobase\engineowning.cod9\Release\EO - CoD9.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\EngineOwning\engineowning.eobase\engineowning.cod9\Release\EO - CoD9.lib" /MACHINE:X86 /DLL Release\dllmain.obj
+         Release\EO_Client.obj
+         Release\EO_Draw.obj
+         Release\EO_Engine.obj
+         Release\EO_ESP.obj
+         Release\EO_Math.obj
+         Code wird generiert.
+         Codegenerierung ist abgeschlossen.
+         EO - CoD9.vcxproj -> H:\EngineOwning\engineowning.eobase\engineowning.cod9\Release\EO - CoD9.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"H:\EngineOwning\engineowning.eobase\engineowning.cod9\Release\EO - CoD9.dll;#2" /manifest "Release\EO - CoD9.dll.intermediate.manifest"
+     1>Die Erstellung des Projekts "H:\EngineOwning\engineowning.eobase\engineowning.cod9\EO - CoD9\EO - CoD9.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:03.59

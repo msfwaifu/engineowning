@@ -1,0 +1,50 @@
+﻿Der Buildvorgang wurde am 12.05.2014 17:47:26 gestartet.
+     1>Projekt "H:\EngineOwning\engineowning.eobase\engineowning.cod6\cod6.steam\EO - CoD6\EO - CoD6\EO - CoD6.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D EOCOD6_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt EO_Aimbot.cpp EO_Engine.cpp
+         EO_Aimbot.cpp
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(10): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'float'
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(10): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'float'
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(10): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'float'
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(14): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(17): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(20): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(22): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Engine.h(15): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Engine.h(17): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Engine.h(19): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>EO_Aimbot.cpp(9): warning C4101: 'Trace': Unreferenzierte lokale Variable
+         EO_Engine.cpp
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(10): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'float'
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(10): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'float'
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(10): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'float'
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(14): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(17): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(20): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Drawing.h(22): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Engine.h(15): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Engine.h(17): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>h:\engineowning\engineowning.eobase\engineowning.cod6\cod6.steam\eo - cod6\eo - cod6\EO_Engine.h(19): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>EO_Engine.cpp(52): warning C4229: Anachronismus verwendet: Modifizierer der Daten werden ignoriert
+     1>EO_Engine.cpp(92): warning C4244: '=': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>EO_Engine.cpp(93): warning C4244: '=': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>EO_Engine.cpp(94): warning C4244: '=': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>EO_Engine.cpp(113): warning C4405: 'ret': Bezeichner ist ein reserviertes Wort
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\EngineOwning\engineowning.eobase\engineowning.cod6\cod6.steam\EO - CoD6\Release\EO - CoD6.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\EO - CoD6.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\EngineOwning\engineowning.eobase\engineowning.cod6\cod6.steam\EO - CoD6\Release\EO - CoD6.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\EngineOwning\engineowning.eobase\engineowning.cod6\cod6.steam\EO - CoD6\Release\EO - CoD6.lib" /MACHINE:X86 /DLL Release\dllmain.obj
+         Release\EO_Aimbot.obj
+         Release\EO_Drawing.obj
+         Release\EO_Engine.obj
+         Release\EO_ESP.obj
+         Release\EO_Friend.obj
+         Release\EO_Math.obj
+         Code wird generiert.
+         Codegenerierung ist abgeschlossen.
+         EO - CoD6.vcxproj -> H:\EngineOwning\engineowning.eobase\engineowning.cod6\cod6.steam\EO - CoD6\Release\EO - CoD6.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"H:\EngineOwning\engineowning.eobase\engineowning.cod6\cod6.steam\EO - CoD6\Release\EO - CoD6.dll;#2" /manifest "Release\EO - CoD6.dll.intermediate.manifest"
+     1>Die Erstellung des Projekts "H:\EngineOwning\engineowning.eobase\engineowning.cod6\cod6.steam\EO - CoD6\EO - CoD6\EO - CoD6.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:02.34

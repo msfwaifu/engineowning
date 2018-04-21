@@ -1,0 +1,28 @@
+﻿Der Buildvorgang wurde am 13.06.2014 19:06:10 gestartet.
+     1>Projekt "H:\EngineOwning\engineowning.eobase\engineowning.cod8\cod8.steam\EO - CoD8\EO - CoD8\EO - CoD8.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W0 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D EOCOD8_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt EO_MENU_MW2.cpp
+         EO_MENU_MW2.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\EngineOwning\engineowning.eobase\engineowning.cod8\cod8.steam\EO - CoD8\Release\EO - CoD8.dll" /INCREMENTAL:NO /NOLOGO Winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\EngineOwning\engineowning.eobase\engineowning.cod8\cod8.steam\EO - CoD8\Release\EO - CoD8.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\EngineOwning\engineowning.eobase\engineowning.cod8\cod8.steam\EO - CoD8\Release\EO - CoD8.lib" /MACHINE:X86 /SAFESEH /DLL Release\Awall.obj
+         Release\EO_Autowall.obj
+         Release\EO_Client.obj
+         Release\EO_Drawing.obj
+         Release\EO_ESP_AIMBOT.obj
+         Release\EO_Hook.obj
+         Release\EO_Killsounds.obj
+         Release\EO_Main.obj
+         Release\EO_MENU_MW2.obj
+         Release\EO_Misc.obj
+         Release\EO_NoSpread.obj
+         Release\EO_Offsets.obj
+         Release\EO_Utils.obj
+         Release\UTILS_RandomGen.obj
+         Code wird generiert.
+         Codegenerierung ist abgeschlossen.
+         EO - CoD8.vcxproj -> H:\EngineOwning\engineowning.eobase\engineowning.cod8\cod8.steam\EO - CoD8\Release\EO - CoD8.dll
+     1>Die Erstellung des Projekts "H:\EngineOwning\engineowning.eobase\engineowning.cod8\cod8.steam\EO - CoD8\EO - CoD8\EO - CoD8.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:11.11
